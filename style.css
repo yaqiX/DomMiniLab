@@ -1,0 +1,11 @@
+body{
+    height:100vh;
+    font-family: serif;
+    background-color: #fff2d5;
+
+  }
+
+h1 {
+    font-size: large;
+    font-weight: bolder;
+}
