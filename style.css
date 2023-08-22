@@ -9,3 +9,13 @@ h1 {
     font-size: large;
     font-weight: bolder;
 }
+
+
+button {
+  background-color: lightgray;
+  color: white;
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  cursor: pointer;
+}
